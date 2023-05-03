@@ -1,5 +1,5 @@
-!pip install gradio -q
-!pip install --upgrade pip
+pip install gradio -q
+pip install --upgrade pip
 
 import gradio as gr
 import time as tm
